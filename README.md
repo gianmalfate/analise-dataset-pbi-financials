@@ -1,4 +1,4 @@
-# Power BI Financials Projects
+# Análise dataset Financials (Power BI)
 Este repositório contém três projetos desenvolvidos no Power BI, cada um com diferentes abordagens para analisar, modelar e apresentar dados financeiros. O objetivo principal é oferecer uma visão geral e interativa do conjunto de dados `Financials`, além de aplicar técnicas de modelagem de dados para enriquecer as análises com uma tabela de calendário e uma tabela de orçamento (budget).
 
 ## Estrutura dos Projetos
